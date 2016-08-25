@@ -5,8 +5,8 @@ In many American cities, there are communal bicycle sharing stations where you c
 
 ##Here are explanations of the relevant columns:
 
-0.instant -- a unique sequential id number for each row.
-1.dteday -- the date the rentals occurred on.
+0. instant -- a unique sequential id number for each row.
+1. dteday -- the date the rentals occurred on.
 2.season -- the season the rentals occurred in.
 3.yr -- the year the rentals occurred in.
 4.mnth -- the month the rentals occurred in.
